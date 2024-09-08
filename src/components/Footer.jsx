@@ -13,7 +13,7 @@ const Footer = () => {
               <div className='flex  flex-wrap flex-1 px-6 pb-4'>
                <h2 className="text-gray-300 text-2xl font-bold ml-32">Download my CV here </h2>
             <a
-              href='src/assets/Manoj_Kumar_Eedhara_CV.pdf'
+              href='/Manoj_Kumar_Eedhara_CV.pdf'
               download
               className="text-white hover:text-green-400 transition duration-300"
             >
