@@ -109,7 +109,7 @@ const Contact = () => {
               name='message'
               value={form.message}
               onChange={handleChange}
-              placeholder='Please mention your reason for contcating'
+              placeholder='Please mention your reason for contacting.'
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>
@@ -134,3 +134,10 @@ const Contact = () => {
 };
 
 export default SectionWrapper(Contact, "contact");
+
+
+
+
+
+
+

@@ -33,7 +33,7 @@ const Footer = () => {
                 <FaLinkedin size={32} />
               </a>
               <a
-                href="https://github.com/your-github-username"
+                href="https://github.com/manojkumareedhara"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-gray-400 transition duration-300"
