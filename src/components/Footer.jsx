@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col space-y-6">
           <div className="flex flex-col items-center space-y-4">
-            <h2 className="text-gray-400 text-xl sm:text-2xl font-bold text-center">Download my CV here</h2>
+            <h2 className="text-gray-300 text-xl sm:text-2xl font-bold text-center">Download my CV here</h2>
             <a
               href='/Manoj_Kumar_Eedhara_CV.pdf'
               download
@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
           
           <div className="flex flex-col items-center space-y-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-center">You can follow my work here</h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-gray-300 text-center">Follow my work here</h2>
             <div className="flex space-x-6">
               <a
                 href="https://www.linkedin.com/in/your-linkedin-profile"

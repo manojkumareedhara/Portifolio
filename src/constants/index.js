@@ -138,10 +138,10 @@ const experiences = [
         iconBg: "#E6DEDD", 
         date: "Jan 2024 - Present",
         points: [
-        "Led development of AI-powered office automation application, showcasing expertise in cutting-edge technologies and end-to-end project management.",
+        "Leading the development of AI-powered office automation application, showcasing expertise in cutting-edge technologies and end-to-end project management.",
+        "Implementing hybrid MySQL/MongoDB data ecosystem, enhancing query performance by 60%.",
         "Integrated advanced LLMs and NLP technologies (SpaCy, NLTK, LangChain), reducing manual task processing by 40%.",
         "Architected scalable web solution with React.js and Flask/FastAPI, improving user engagement by 30%.",
-        "Implemented hybrid MySQL/MongoDB data ecosystem, enhancing query performance by 60%.",
         "Orchestrated AWS deployment using Docker and Kubernetes, cutting deployment time by 70%.",
         "Achieved 95% customer satisfaction through direct stakeholder engagement and support.",
         "Increased overall workplace productivity by 35% and reduced operational costs by 20%.",
@@ -166,8 +166,8 @@ const experiences = [
     {
         title: "Robotics Engineer",
         company_name: "Dash Dot Robotics",
-        icon: dashDotRobotics, // You'll need to replace this with the actual import or path to the company icon
-        iconBg: "#E6DEDD", // You can adjust this color as needed
+        icon: dashDotRobotics, 
+        iconBg: "#E6DEDD", 
         date: "Jun 2021 - Aug 2022",
         points: [
             "Architected Box-it, an autonomous inventory management system, integrating robotics and IoT solutions.",
@@ -183,8 +183,8 @@ const experiences = [
     {
         title: "Robotics Intern",
         company_name: "Experts Hub",
-        icon: expertsHub, // You'll need to replace this with the actual import or path to the company icon
-        iconBg: "#E6DEDD", // You can adjust this color as needed
+        icon: expertsHub,
+        iconBg: "#E6DEDD",
         date: "Mar 2020 - Jul 2020",
         points: [
         "Led a high-performing Photoshop team of over 12 technicians and operators, overseeing the entire process of prototype building, testing, and validation of Backhoe Loaders.",
@@ -199,30 +199,7 @@ const experiences = [
 ];
 
 const testimonials = [
-    {
-        testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-        testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
-        name: "Chris Brown",
-        designation: "COO",
-        company: "DEF Corp",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-        testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
+    
 ];
 
 const projects = [
@@ -256,7 +233,7 @@ const projects = [
 
     
      {
-        name: "Frontier Based Exploration",
+        name: "Frontier - Based Exploration",
         description:
             "Advanced meta-learning framework for Search and Rescue (SAR) robot simulations, leveraging MAML, REPTILE, and Zero-shot Learning. Implements Deep RL algorithms to significantly enhance exploration capabilities and decision-making accuracy in complex environments.",
         tags: [
@@ -314,7 +291,7 @@ const projects = [
         source_code_link: "https://streamable.com/vq2mds", // Replace with your actual GitHub link
     },
     {
-    name: "Deliveri-Bot",
+    name: "Deliveri - Bot",
     description:
         "AI-powered autonomous robot for hotel room service deliveries, enhancing guest experience and operational efficiency. Features advanced navigation in dynamic indoor environments, obstacle avoidance, and secure delivery protocols, showcasing cutting-edge robotics and AI integration.",
     tags: [
