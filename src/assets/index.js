@@ -32,6 +32,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import spot from './spot.jpg';
 import intbuddy from './intbuddy.png';
+import applyDrone from './ApplyDrone.png';
 
 export {
   logo,
@@ -67,5 +68,6 @@ export {
   dashDotRobotics,
   expertsHub,
   spot,
-  intbuddy
+  intbuddy,
+  applyDrone
 };

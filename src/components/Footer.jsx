@@ -25,7 +25,7 @@ const Footer = () => {
             <h2 className="text-xl sm:text-2xl font-bold text-gray-300 text-center">Follow my work here</h2>
             <div className="flex space-x-6">
               <a
-                href="https://www.linkedin.com/in/your-linkedin-profile"
+                href="https://www.linkedin.com/in/manojeedhara/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-blue-400 transition duration-300"

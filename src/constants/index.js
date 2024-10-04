@@ -28,7 +28,8 @@ import {
     dashDotRobotics,
     expertsHub,
     spot,
-    intbuddy
+    intbuddy,
+    applyDrone
 } from "../assets";
 
 export const navLinks = [
@@ -132,11 +133,25 @@ const technologies = [
 
 const experiences = [
     {
+    title: "ROS Developer",
+    company_name: "Autonome Labs",
+    icon: applyDrone,
+    iconBg: "#E6DEDD",
+    date: "Sep 2024 - Present",
+    points: [
+        "Spearheading the development of cutting-edge Unmanned Aerial Vehicles (UAVs) and Maritime Autonomous Systems",
+        "Orchestrating the seamless integration of advanced sensors with ROS (Robot Operating System) in drone platforms, implementing state-of-the-art SLAM (Simultaneous Localization and Mapping) algorithms for robust navigation",
+        "Designing and implementing sophisticated sensor fusion techniques, leveraging Machine Learning and Deep Learning models to significantly enhance drone performance and autonomy",
+        "Leading the application and optimization of developed technologies on VOXL drone platforms, overseeing rigorous testing procedures and successful deployment across multiple drone fleets",
+        "Collaborating with cross-functional teams to ensure seamless integration of software and hardware components, resulting in highly efficient and reliable autonomous systems"
+    ]
+    },
+    {
         title: "AI / ML Developer",
         company_name: "MAASR LTD",
         icon: star,  
         iconBg: "#E6DEDD", 
-        date: "Jan 2024 - Present",
+        date: "Jan 2024 - Jul2024",
         points: [
         "Leading the development of AI-powered office automation application, showcasing expertise in cutting-edge technologies and end-to-end project management.",
         "Implementing hybrid MySQL/MongoDB data ecosystem, enhancing query performance by 60%.",
